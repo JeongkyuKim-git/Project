@@ -3,14 +3,16 @@
 
 *최종 matplotlib 결과물*
 -----
-<img src="https://user-images.githubusercontent.com/66001539/120742822-a27bef80-c532-11eb-9e2d-df1ec3c18f68.png" width="450px" height="450px" title="px(픽셀) 크기 설정" alt="Image_machine"></img><br/>  
-
+<img src="https://user-images.githubusercontent.com/66001539/120742822-a27bef80-c532-11eb-9e2d-df1ec3c18f68.png" width="300px" height="300px" title="px(픽셀) 크기 설정" alt="Image_machine"></img><br/>  
 
 *전체 출력*
 -----  
->
-                Country      Continent          Last_Update        Lat       Long_  Confirmed  Deaths  Recovered  Active  Incident_Rate
-0             Australia      Australia  2020-08-10 06:34:52 -25.000000  133.000000    21397.0   313.0    12141.0  8943.0      84.042624
+| Header One | Header Two | Header Three | Header Four | 
+| ---------- | :--------- | :----------: | ----------: | 
+| Default | Left | Center | Right |
+
+|            |  Country|     Continent|         Last_Update|       Lat|      Long_| Confirmed| Deaths| Recovered| Active| Incident_Rate|
+|0           |: Australia:|:Australia:|:2020-08-10 06:34:52:|:-25.000000:|:133.000000:|:21397.0:|:313.0:|:12141.0:|:8943.0:|:84.042624:|
 1               Austria         Europe  2020-08-10 06:34:52  47.516200   14.550100    22033.0   721.0    19923.0  1389.0     244.637147
 2                Canada  North America  2020-08-10 06:34:52  60.001000  -95.001000   121367.0  9028.0   105420.0  6919.0     320.604278
 3                 China           Asia  2020-08-10 06:34:52  30.592800  114.305500    88793.0  4686.0    82125.0  1982.0       6.321243
@@ -74,3 +76,6 @@ France        235237.0  30327.0             12.892105
 Belgium        74152.0   9872.0             13.313195
 Italy         250566.0  35205.0             14.050190
 UK            312574.0  46659.0             14.927345
+
+
+[Top Button](#)
