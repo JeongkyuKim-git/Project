@@ -3,7 +3,7 @@
 
 *최종 matplotlib 결과물*
 -----
-<img src="https://user-images.githubusercontent.com/66001539/120742822-a27bef80-c532-11eb-9e2d-df1ec3c18f68.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="Image_machine"></img><br/>  
+<img src="https://user-images.githubusercontent.com/66001539/120742822-a27bef80-c532-11eb-9e2d-df1ec3c18f68.png" width="450px" height="450px" title="px(픽셀) 크기 설정" alt="Image_machine"></img><br/>  
 
 
 *전체 출력*
